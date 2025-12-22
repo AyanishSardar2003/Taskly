@@ -1,42 +1,42 @@
 # Taskly 📝
 
-Taskly هو تطبيق لإدارة المهام مبني باستخدام **Flutter**، يهدف إلى تنظيم المهام اليومية بكفاءة مع واجهة مستخدم أنيقة وتجربة استخدام سلسة.  
-يدعم التطبيق **إضافة، تعديل، حذف المهام** مع تحديد **أولوية المهمة**، ويدعم **الوضع الداكن والفاتح**، بالإضافة إلى **اللغتين العربية والإنجليزية**.
+Taskly is a modern **task management Flutter application** designed to help users organize their daily tasks efficiently.  
+The app provides a clean and intuitive **UI/UX**, supports **task priorities**, **dark/light themes**, and **multi-language support** using a fully local database.
 
 ---
 
-## ✨ المميزات
+## ✨ Features
 
-- ➕ إضافة مهام جديدة
-- ✏️ تعديل المهام
-- 🗑️ حذف المهام
-- ⭐ نظام أولوية للمهام:
-  - مهمة مهمة (Important)
-  - عادية (Normal)
-  - منخفضة (Low)
-- 🗂️ أرشفة المهام
+- ➕ Add new tasks  
+- ✏️ Update existing tasks  
+- 🗑️ Delete tasks  
+- ⭐ Task priority system:
+  - Important
+  - Normal
+  - Low
+- 🗂️ Archive tasks
 - 🌙 Dark Mode / ☀️ Light Mode
-- 🌍 دعم لغتين:
-  - العربية
-  - الإنجليزية
-- 💾 تخزين محلي باستخدام SQLite (Sqflite)
-- ⚡ إدارة حالة باستخدام GetX
-- 🎨 واجهة مستخدم جميلة وتجربة استخدام محسّنة (UI/UX)
-- 📖 شاشة بداية تحتوي على تعليمات بسيطة لاستخدام التطبيق (Tutorial / Splash)
+- 🌍 Multi-language support:
+  - English
+  - Arabic
+- 💾 Local data storage using SQLite (Sqflite)
+- ⚡ State management with GetX
+- 🎨 Beautiful UI and smooth UX
+- 📖 Simple onboarding / tutorial screen for first-time users
 
 ---
 
-## 🛠️ التقنيات المستخدمة
+## 🛠️ Technologies Used
 
 - **Flutter**
 - **GetX** (State Management, Routing, Localization)
 - **Sqflite** (Local Database)
-- **MVC / Clean-ish Architecture**
 - **Material Design**
+- **Clean & Scalable Project Structure**
 
 ---
 
-## 📂 هيكل المشروع
+## 📂 Project Structure
 
 ```file structure
 lib/
