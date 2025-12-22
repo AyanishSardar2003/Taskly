@@ -1,16 +1,67 @@
-# perfect_day
+# Taskly 📝
 
-A new Flutter project.
+Taskly هو تطبيق لإدارة المهام مبني باستخدام **Flutter**، يهدف إلى تنظيم المهام اليومية بكفاءة مع واجهة مستخدم أنيقة وتجربة استخدام سلسة.  
+يدعم التطبيق **إضافة، تعديل، حذف المهام** مع تحديد **أولوية المهمة**، ويدعم **الوضع الداكن والفاتح**، بالإضافة إلى **اللغتين العربية والإنجليزية**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ المميزات
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ إضافة مهام جديدة
+- ✏️ تعديل المهام
+- 🗑️ حذف المهام
+- ⭐ نظام أولوية للمهام:
+  - مهمة مهمة (Important)
+  - عادية (Normal)
+  - منخفضة (Low)
+- 🗂️ أرشفة المهام
+- 🌙 Dark Mode / ☀️ Light Mode
+- 🌍 دعم لغتين:
+  - العربية
+  - الإنجليزية
+- 💾 تخزين محلي باستخدام SQLite (Sqflite)
+- ⚡ إدارة حالة باستخدام GetX
+- 🎨 واجهة مستخدم جميلة وتجربة استخدام محسّنة (UI/UX)
+- 📖 شاشة بداية تحتوي على تعليمات بسيطة لاستخدام التطبيق (Tutorial / Splash)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ التقنيات المستخدمة
+
+- **Flutter**
+- **GetX** (State Management, Routing, Localization)
+- **Sqflite** (Local Database)
+- **MVC / Clean-ish Architecture**
+- **Material Design**
+
+---
+
+## 📂 هيكل المشروع
+
+```file structure
+lib/
+│── getx/
+│   ├── local/
+│   │   ├── local.dart
+│   │   └── controller.dart
+│
+│── models/
+│   └── home_screen/
+│       ├── custom_app_bar.dart
+│       ├── custom_nav_bar.dart
+│       ├── my_task_card.dart
+│       └── task_card.dart
+│
+│── screens/
+│   ├── add_task_screen.dart
+│   ├── archive_screen.dart
+│   ├── details_screen.dart
+│   ├── home_screen.dart
+│   ├── settings_screen.dart
+│   ├── splash_screen.dart
+│   └── tutrial_screen.dart
+│
+│── sql/
+│   └── sqldb.dart
+│
+└── main.dart
